@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script type="text/javascript" src="script.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to the Train Reservation System</h1>
+        <p>Book your train tickets with ease!</p>
+    </header>
+    <div class="buttons">
+        <a href="login.html">Login</a>
+        <a href="registration.html">Register</a>
+    </div>
+</body>
+
+</html>
